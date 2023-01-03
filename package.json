@@ -1,0 +1,19 @@
+{
+  "name": "@regirock365/util",
+  "version": "1.0.0",
+  "description": "JavaScript utility functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regirock365/util.git"
+  },
+  "author": "regirock365",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/regirock365/util/issues"
+  },
+  "homepage": "https://github.com/regirock365/util#readme"
+}
